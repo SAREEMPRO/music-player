@@ -72,7 +72,7 @@ body {
 }
 .wrapper{
     max-width: 100%;
-    height: 100vh;
+    height: 90vh;
     text-align: center;
     justify-content: center;
     overflow: hidden;
@@ -368,5 +368,5 @@ li:hover {
 }
 
 @media(max-width:1600px) {
-.wrapper{}
+
 }
