@@ -72,7 +72,7 @@ body {
 }
 .wrapper{
     max-width: 100%;
-    height: 90vh;
+    height: 100vh;
     text-align: center;
     justify-content: center;
     overflow: hidden;
@@ -108,7 +108,7 @@ transition: all 0.3s ease;
 }
 
 .p-now{
-    width: 50%;
+    width: 45%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -367,3 +367,6 @@ li:hover {
     border-radius: 4px;
 }
 
+@media(max-width:1600px) {
+.wrapper{}
+}
