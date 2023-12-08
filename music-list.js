@@ -89,5 +89,37 @@ let allMusic = [
     img:"music-15",
     src:"music-15"
 },
+{
+    name:"Naach Mere Jaan",
+    artist:"Benny Dayal,Sachin jigar",
+    img:"music-16",
+    src:"music-16"
+},
+{
+    name:"Love Dose",
+    artist:"Yo Yo Honey Singh",
+    img:"music-17",
+    src:"music-17"
+},
+{
+    name:"Vip Title Song",
+    artist:"Dhanush, Anirudh Ravichander",
+    img:"music-18",
+    src:"music-18"
+},  
+{
+    name:"Jawan Title Song",
+    artist:"Anirudh Ravichander",
+    img:"music-19",
+    src:"music-19"
+},
+{
+    name:"Aaluma Doluma",
+    artist:"Anirudh Ravichander, Badshah",
+    img:"music-20",
+    src:"music-20"
+},
 ]
+
+
 

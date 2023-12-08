@@ -367,3 +367,23 @@ li:hover {
     border-radius: 4px;
 }
 
+
+
+@media (min-width: 1200px){
+    .wrapper{
+        width: 30%;
+        height: 100vh;
+        border-radius: 20px;
+       
+    }
+    .player {
+        margin-top: 5rem;
+    }
+    .p-now{
+        width: 40%;
+    }
+
+    
+}
+
+
